@@ -1,4 +1,4 @@
-# MWP_paraphrasing_API
+# counterfactual generator API
 
 Download the zip  from https://drive.google.com/drive/u/1/folders/1OL00WSHTiR5zhiuy5w8jceUH30uoEWR7 and unzip it into app folder
 
