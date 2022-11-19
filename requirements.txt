@@ -1,0 +1,5 @@
+sentence_transformers==2.0.0
+transformers==4.6.1
+fastapi
+uvicorn
+strsim
